@@ -9,17 +9,17 @@ I am a software engineer focused on clean, maintainable HTML, CSS, and Javascrip
 ## My projects  
 <table><tr><td valign="top" width="33%">
 <div align="center"> 
-<a href="https://3pointdesign.netlify.app/">3POINT DESIGN Client Site</a>
+<a href="https://3pointdesign.netlify.app/" target="_blank">3POINT DESIGN Client Site</a>
 <img src="https://i.imgur.com/zUUZZ3c.jpg" alt="3POINT DESIGN Screenshot">
 </div>
 </td><td valign="top" width="33%">
 <div align="center">
-<a href="https://jeremyseckinger.netlify.app"/>Jeremy Seckinger Portfolio Site</a>
+<a href="https://jeremyseckinger.netlify.app" target="_blank">Jeremy Seckinger Portfolio Site</a>
 <img src="https://i.imgur.com/LgIFAWl.png" alt="Jeremy Seckinger Portfolio Site Screenshot">
 </div>
 </td><td valign="top" width="33%">
 <div align="center">
-<a href="https://horoscopegenerator.netlify.app/">Horoscope Generator</a>
+<a href="https://horoscopegenerator.netlify.app/" target="_blank">Horoscope Generator</a>
 <img src="https://i.imgur.com/cYQVBFB.png" alt="Horoscope Generator Screenshot">
    
 </div>
