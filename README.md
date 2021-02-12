@@ -4,9 +4,7 @@
 
  ## About me
  
- I am a full stack software engineer and freelance web developer based in Santa Barbara, California and the greater Los Angeles area. I'm available for freelance work, and open to collaborating. Don't hesitate to reach out!
-
-When I'm not building web apps, you can find me at the beach, in the mountains, or on the golf course. I'm an avid shoestring traveler, and use my time off to explore the world.
+I am a software engineer focused on clean, maintainable HTML, CSS, and Javascript--utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I work with clients across the US, but base myself out of Santa Barbara, CA where I'm lucky enough to be part of a brilliant tech community and enjoy the sunny beachside lifestyle.
 
 ## My projects  
 <table><tr><td valign="top" width="33%">
