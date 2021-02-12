@@ -18,9 +18,10 @@ I am a software engineer focused on clean, maintainable HTML, CSS, and Javascrip
 <img src="https://i.imgur.com/LgIFAWl.png" alt="Jeremy Seckinger Portfolio Site Screenshot">
 </div>
 </td><td valign="top" width="33%">
+<div align="center">
 <a href="https://horoscopegenerator.netlify.app/">Horoscope Generator</a>
 <img src="https://i.imgur.com/cYQVBFB.png" alt="Horoscope Generator Screenshot">
-<div align="center">   
+   
 </div>
 </td></tr></table> 
 
