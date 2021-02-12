@@ -26,13 +26,8 @@ When I'm not building web apps, you can find me at the beach, in the mountains, 
 </div>
 </td></tr></table> 
 
-<br/>
-<table><tr><td valign="top" width="33%">
-<div align="center"> 
-
-</div>
-</td>
-
 ## Connect with me
-
+<div>
 <a href="www.linkedin.com/in/jeremy-seckinger" target="_blank"><img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
+ </div>
+<br/>
