@@ -20,7 +20,7 @@ I am a software engineer focused on clean, maintainable HTML, CSS, and Javascrip
 </td><td valign="top" width="33%">
 <div align="center">
 <a href="https://horoscopegenerator.netlify.app/" target="_blank">Horoscope Generator</a>
-<img src="https://i.imgur.com/cYQVBFB.png" alt="Horoscope Generator Screenshot">
+<img src="https://i.imgur.com/9pSPT8A.png" alt="Horoscope Generator Screenshot">
    
 </div>
 </td></tr></table> 
