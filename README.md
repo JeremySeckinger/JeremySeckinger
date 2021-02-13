@@ -4,7 +4,7 @@
 
  ## About me
  
-I am a software engineer focused on clean, maintainable HTML, CSS, and Javascript--utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I work with clients across the US, but base myself out of Santa Barbara, CA where I'm lucky enough to be part of a brilliant tech community and enjoy the sunny beachside lifestyle.
+I am a software engineer with a background in entertainment production and world travel, and I love the way technology brings the world closer together. My contribution to the world is through software development, where I’m able to create immersive web applications that are accessible to everyone across the globe. My work is focused on clean, maintainable javascript, css, and html based applications—utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I work with clients across the US and internationally, but base myself out of Santa Barbara, CA where I'm lucky enough to be part of a brilliant tech community and enjoy the sunny beachside lifestyle.
 
 ## My projects  
 <table><tr><td valign="top" width="33%">
