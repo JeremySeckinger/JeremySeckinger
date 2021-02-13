@@ -14,8 +14,8 @@ I am a software engineer focused on clean, maintainable HTML, CSS, and Javascrip
 </div>
 </td><td valign="top" width="33%">
 <div align="center">
-<a href="https://jeremyseckinger.netlify.app" target="_blank">Jeremy Seckinger Portfolio Site</a>
-<img src="https://i.imgur.com/LgIFAWl.png" alt="Jeremy Seckinger Portfolio Site Screenshot">
+<a href="https://stocktickerquotes.netlify.app/" target="_blank">Stock Market Ticker Quote App</a>
+<img src="https://i.imgur.com/Ag0eXNE.png">
 </div>
 </td><td valign="top" width="33%">
 <div align="center">
