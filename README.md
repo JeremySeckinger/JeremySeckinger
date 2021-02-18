@@ -8,21 +8,24 @@
 <p>My work is focused on clean, maintainable javascript, css, and html based applications—utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I work with clients across the US and internationally, but base myself out of Santa Barbara, CA where I'm fortunate enough to be part of a brilliant tech community and enjoy the sunny beachside lifestyle.</p> 
 
 ## My projects  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="25%">
 <div align="center"> 
-<a href="https://3pointdesign.netlify.app/" target="_blank">3POINT DESIGN Client Site</a>
-<img src="https://i.imgur.com/zUUZZ3c.jpg" alt="3POINT DESIGN Screenshot">
+<a href="https://3pointdesign.netlify.app/" target="_blank">3POINT DESIGN</a>
+<img src="https://media.giphy.com/media/9veaR1BLlkRBKpXsfG/giphy-downsized.gif">
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 <div align="center">
-<a href="https://stocktickerquotes.netlify.app/" target="_blank">Stock Market Ticker Quote App</a>
+<a href="https://jeremyseckinger.netlify.app/" target="_blank">Jeremy Seckinger Portfolio</a>
+<img src="https://media.giphy.com/media/o0NEwSpttMSWg3OT1a/giphy.gif">
+ </div><td valign="top" width="25%">
+<div align="center">
+<a href="https://stocktickerquotes.netlify.app/" target="_blank">Stock Market Ticker App</a>
 <img src="https://i.imgur.com/Ag0eXNE.png">
 </div>
-</td><td valign="top" width="33%">
+</td><td valign="top" width="25%">
 <div align="center">
 <a href="https://horoscopegenerator.netlify.app/" target="_blank">Horoscope Generator</a>
 <img src="https://i.imgur.com/9pSPT8A.png" alt="Horoscope Generator Screenshot">
-   
 </div>
 </td></tr></table> 
 
