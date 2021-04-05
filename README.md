@@ -10,21 +10,21 @@
 ## My projects  
 <table><tr><td valign="top" width="25%">
 <div align="center"> 
-<a href="https://3pointdesign.netlify.app/" target="_blank">3POINT DESIGN</a>
+<a href="https://github.com/JeremySeckinger/3POINTDESIGN" target="_blank">3POINT DESIGN</a>
 <img src="https://media.giphy.com/media/6YmdDO1wIXJ1Gih9hl/giphy-downsized.gif">
 </div>
 </td><td valign="top" width="25%">
 <div align="center">
-<a href="https://jeremyseckinger.netlify.app/" target="_blank">Jeremy Seckinger Portfolio</a>
+<a href="https://github.com/JeremySeckinger/Jeremy-Seckinger-Website" target="_blank">Portfolio</a>
 <img src="https://media.giphy.com/media/o0NEwSpttMSWg3OT1a/giphy.gif">
  </div><td valign="top" width="25%">
 <div align="center">
-<a href="https://stocktickerquotes.netlify.app/" target="_blank">Stock Market Ticker App</a>
+<a href="https://github.com/JeremySeckinger/stock-market-ticker-app" target="_blank">Stock Market Ticker App</a>
 <img src="https://i.imgur.com/Ag0eXNE.png">
 </div>
 </td><td valign="top" width="25%">
 <div align="center">
-<a href="https://horoscopegenerator.netlify.app/" target="_blank">Horoscope Generator</a>
+<a href="https://github.com/JeremySeckinger/Horoscope-Generator" target="_blank">Horoscope Generator</a>
 <img src="https://i.imgur.com/9pSPT8A.png" alt="Horoscope Generator Screenshot">
 </div>
 </td></tr></table> 
