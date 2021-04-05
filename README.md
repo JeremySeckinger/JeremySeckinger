@@ -11,7 +11,7 @@
 <table><tr><td valign="top" width="25%">
 <div align="center"> 
 <a href="https://3pointdesign.netlify.app/" target="_blank">3POINT DESIGN</a>
-<img src="https://media.giphy.com/media/9veaR1BLlkRBKpXsfG/giphy-downsized.gif">
+<img src="https://media.giphy.com/media/6YmdDO1wIXJ1Gih9hl/giphy-downsized.gif">
 </div>
 </td><td valign="top" width="25%">
 <div align="center">
