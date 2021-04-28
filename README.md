@@ -2,6 +2,8 @@
 
 :mag: **Check out some of my work**	:mag:
 
+🌎 --> I'm currently working on Travel Dash; an all-in-one social travel dashboard that centralizes trip planning, shares updates and highlights to friends and family along the way, and connects travellers to crowdsource adventures of a lifetime</p>
+
  ## About me
  
 <p>I am a software engineer with a background in entertainment production and world travel, and I love the way technology brings humanity closer together. Through software development I create immersive web applications that are accessible to everyone across the globe.</p>
