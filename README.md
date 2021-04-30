@@ -2,7 +2,7 @@
 
 :mag: **Check out some of my work**	:mag:
 
-🌎 --> I'm currently working on Travel Dash; an all-in-one social travel dashboard that centralizes trip planning, shares updates and highlights to friends and family along the way, and connects travellers to crowdsource adventures of a lifetime</p>
+🌎 --> I'm currently working on Travel Dash--A full featured social travel dashboard linking travelers with the tools and community they need to plan and execute a lifetime of adventures. Full stack: Node with Express, React, MongoDB</p>
 
  ## About me
  
