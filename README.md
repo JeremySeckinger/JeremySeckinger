@@ -10,7 +10,14 @@
 <p>My work is focused on clean, maintainable javascript, css, and html based applications—utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I work with clients across the US and internationally, but base myself out of Santa Barbara, CA where I'm fortunate enough to be part of a brilliant tech community and enjoy the sunny beachside lifestyle.</p> 
 
 ## My projects  
-<table><tr><td valign="top" width="25%">
+<table><tr>
+<td valign="top" width="25%">
+<div align="center">
+<a href="https://github.com/JeremySeckinger/Opinions-Social-Network" target="_blank">Opinions Social Network</a>
+<img src="https://media.giphy.com/media/akfWIy2Kf3ud3EIzih/giphy.gif">
+</div>
+</td>
+<td valign="top" width="25%">
 <div align="center"> 
 <a href="https://github.com/JeremySeckinger/3POINTDESIGN" target="_blank">3POINT DESIGN</a>
 <img src="https://media.giphy.com/media/6YmdDO1wIXJ1Gih9hl/giphy-downsized.gif">
@@ -24,12 +31,8 @@
 <a href="https://github.com/JeremySeckinger/stock-market-ticker-app" target="_blank">Stock Market Ticker App</a>
 <img src="https://i.imgur.com/Ag0eXNE.png">
 </div>
-</td><td valign="top" width="25%">
-<div align="center">
-<a href="https://github.com/JeremySeckinger/Horoscope-Generator" target="_blank">Horoscope Generator</a>
-<img src="https://i.imgur.com/9pSPT8A.png" alt="Horoscope Generator Screenshot">
-</div>
-</td></tr></table> 
+</td>
+</tr></table> 
 
 ## Connect with me
 <div>
