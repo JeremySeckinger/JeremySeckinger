@@ -14,7 +14,7 @@
 <td valign="top" width="25%">
 <div align="center">
 <a href="https://github.com/JeremySeckinger/Opinions-Social-Network" target="_blank">Opinions Social Network</a>
-<img src="https://media.giphy.com/media/akfWIy2Kf3ud3EIzih/giphy.gif">
+<img src="https://media.giphy.com/media/eKhhSRRiIW3OrkU5ef/giphy.gif">
 </div>
 </td>
 <td valign="top" width="25%">
