@@ -6,8 +6,15 @@
 
  ## About me
  
-<p>I am a software engineer with a background in entertainment production and world travel, and I love the way technology brings humanity closer together. Through software development I create immersive web applications that are accessible to everyone across the globe.</p>
-<p>My work is focused on clean, maintainable javascript, css, and html based applications—utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I work with clients across the US and internationally, but base myself out of Santa Barbara, CA where I'm fortunate enough to be part of a brilliant tech community and enjoy the sunny beachside lifestyle.</p> 
+<p>I am a full stack software engineer--primarily developing Javascript web applications with React, Node w/Express and MongoDB. One thing I've learned as a developer is that languages are massively translatable and I'm eager to learn new technologies to expand and refine my skills.</p>
+
+<p>I have a background in event, tv, and film production that has given me so much experience that I've brought with me to the dev world. The skills that I've picked up throughout my career--communication across teams, problem solving, meeting and beating critical deadlines--bring value, and make me a more confident, multi-disciplined engineer. Creating and building are really where I find my passion, and from building sets to building sites, the only thing that has changed in my career is the medium.</p>	
+								
+<p>I focus on clean, maintainable javascript, css, and html based applications—utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I've learned and have used many more technologies too, always quickly adapting to find the best tool for the job.</p>	
+	
+<p>My aim is to continue working with progressive forward-thinking teams of engineers, developing meaningful applications, and broadening my skillset further to become an extremely polished developer. My goal is to get to a place in my career where I can pay it forward, encouraging others to push open doors they never considered.</p>	
+								
+<p>When I'm not building, you can find me outside. A few of my favorites: surfing, snowboarding, basketball, golf</p> 
 
 ## My projects  
 <table><tr>
