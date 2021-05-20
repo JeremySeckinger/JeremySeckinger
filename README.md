@@ -6,9 +6,9 @@
 
  ## About me
  
-<p>I am a full stack software engineer--primarily developing Javascript web applications with React, Node w/Express and MongoDB. One thing I've learned as a developer is that languages are massively translatable and I'm eager to learn new technologies to expand and refine my skills.</p>
+<p>I am a full stack software engineer--primarily developing Javascript web applications with React, Node w/Express and MongoDB. One thing I've learned as a developer is that languages are considerably translatable and I'm eager to learn new technologies to expand and refine my skillset.</p>
 
-<p>I have a background in event, tv, and film production that has given me so much experience that I've brought with me to the dev world. The skills that I've picked up throughout my career--communication across teams, problem solving, meeting and beating critical deadlines--bring value, and make me a more confident, multi-disciplined engineer. Creating and building are really where I find my passion, and from building sets to building sites, the only thing that has changed in my career is the medium.</p>	
+<p>I have a background in event, tv, and film production that has given me a wealth of experience that I've brought with me to the dev world. The skills that I've picked up throughout my career--communication across teams, problem solving, meeting and beating critical deadlines--bring value, and make me a more confident, multi-disciplined engineer. Creating and building are really where I find my passion, and from building sets to building sites, the only thing that has changed in my career is the medium.</p>	
 								
 <p>I focus on clean, maintainable javascript, css, and html based applications—utilizing PostgreSQL, MongoDB, Express, React, and Node.js for full stack applications. I've learned and have used many more technologies too, always quickly adapting to find the best tool for the job.</p>	
 	
