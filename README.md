@@ -2,7 +2,9 @@
 
 :mag: **Check out some of my work**	:mag:
 
-🌎 --> I'm currently working on Travel Dash--A full featured social travel dashboard linking travelers with the tools and community they need to plan and execute a lifetime of adventures. This application is being built to combine my passion for travel, with the desire to create a SaaS style dashboard full of useful componennts and tools that provide value to the end user. Full stack: Node with Express, React, MongoDB, Google OAuth 2.0, deployed with Heroku, and serving images using Cloudinary</p>
+🌎 --> I'm currently working on Travel Dash--A full featured social travel dashboard linking travelers with the tools and community they need to plan and execute a lifetime of adventures. This application is being built to combine my passion for travel, with the desire to create a SaaS style dashboard full of useful componennts and tools that provide value to the end user. 
+
+Full stack: Node with Express, React, MongoDB, Google OAuth 2.0, deployed with Heroku, and serving images using Cloudinary</p>
 
  ## About me
  
