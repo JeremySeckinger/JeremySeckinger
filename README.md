@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile!
+### Hi 👋, I'm Jeremy
 
 :mag: **Check out some of my work**	:mag:
 
